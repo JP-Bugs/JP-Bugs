@@ -6,6 +6,10 @@
 - 💼 Experiente no uso do pacote Office
 - 🌎 Nível de inglês avançado
 
+<div align="center"">
+  <h4> 🖥 Experiência BackEnd 🖥 </h4>
+</div>
+
 <div display="inline" align="center">
   <img width="50" height="50" src="https://github.com/user-attachments/assets/45c1d611-2c84-4636-98f7-2fd28e415998" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -14,11 +18,14 @@
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 </div>
 
+<div align="center">
+  <h4> 🖥 Experiêjncia FrontEnd 🖥 </h4>
+</div>
+
 <div display="inline" align="center">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
-
 
 ##
 
